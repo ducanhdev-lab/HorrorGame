@@ -970,11 +970,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 4d1cf5cc-4bac-43fd-8273-9f89c36ec765
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: HorrorFixing
-  organizationId: 
+  projectName: HorrorGame
+  organizationId: unity_78fff0bdd0cefb3f1be7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
